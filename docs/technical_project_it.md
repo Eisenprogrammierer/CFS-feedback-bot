@@ -1,7 +1,7 @@
 # Progetto Tecnico del Bot per il Feedback
 
 ## I. Struttura gerarchica delle cartelle e dei moduli
-
+```
 telegram_bot/
 ├── src/
 │  ├── main.rs      # Punto di ingresso dell'applicazione
@@ -45,7 +45,7 @@ telegram_bot/
 │  └── utils/
 ├── Cargo.toml     # File manifesto di Rust
 └── README.md      # Descrizione del progetto
-
+```
 ## II. Specifica tecnica dei moduli
 
 ### 1. src/main.rs
